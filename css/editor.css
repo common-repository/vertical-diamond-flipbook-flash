@@ -1,0 +1,5 @@
+/* wyswyg editor width/*/
+
+html .mceContentBody {
+  max-width: 480px;
+}
